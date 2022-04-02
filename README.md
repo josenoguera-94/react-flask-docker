@@ -1,5 +1,5 @@
 
-# **Simple Flask React Application with Docker**
+# **Simple React Flask Application with Docker**
 
 ## **Steps:**
 
