@@ -1,6 +1,6 @@
 
 # **Simple React Flask Application with Docker**
-
+Docker **compose** is used to orchestrate the client and server
 ## **Steps:**
 
 1. Create client react and Dockerfile
